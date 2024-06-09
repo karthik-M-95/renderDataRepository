@@ -3530,7 +3530,36 @@
     }
 ],
 "order":[
-        
+  {
+    "id": "bc6a",
+    "userName": "Babu",
+    "orderId": "3510356f-accc-4154-8503-6b81dd5110af",
+    "orderItem": "Prawn Pickle",
+    "orderQuantity": "1/2",
+    "orderPrice": 709,
+    "orderedOn": "2024-06-05",
+    "totalOrder": [
+      {
+        "item": "Maagaya / Mango Slice Pickle",
+        "quantity": "1/2",
+        "price": 374
+      },
+      {
+        "item": "Tomato Pickle ",
+        "quantity": "1",
+        "price": 649
+      },
+      {
+        "item": "Prawn Pickle",
+        "quantity": "1/2",
+        "price": 709
+      }
+    ],
+    "totalPrice": 1732,
+    "orderPayment": true,
+    "orderCompleted": true,
+    "orderDelivery": true
+  }
 ],
   "todo":[
     {
