@@ -3445,7 +3445,7 @@
         "productDescription":"Taste the delicious Maagaya Thokkue prepared in Andhra style at home",
         "productPrice":729,
         "productCategory":"veg",
-        "productUrl":"https://www.sharmispassions.com/wp-content/uploads/2021/11/instant-mango-pickle1.jpg"
+        "productUrl":"https://drive.google.com/thumbnail?id=1CYdbG85WgO0S6YypLgOUGleoFz_8OgBG"
     },
     {
         "id":1004,
@@ -3519,7 +3519,18 @@
         "productPrice":1399,
         "productCategory":"non-veg",
         "productUrl":"https://3.bp.blogspot.com/_QD-CzLN9bVI/SYl3NblyMFI/AAAAAAAAAhU/DrP1dPQQydE/s400/prawn+pickle.gif"
+    }, {
+      "id": 1011,
+      "productId": 1011,
+      "productName": "Drumstick Pickle ",
+      "productDescription": "Try the delicious and spicy Drumstick pickle ",
+      "productPrice": 699,
+      "productCategory": "veg",
+      "productUrl": "https://drive.google.com/thumbnail?id=1gjiVmUTs_5uHVqQbYmzyqAtgyq-Z-oHI"
     }
+],
+"order":[
+        
 ],
   "todo":[
     {
